@@ -1,8 +1,8 @@
-version: 1.0.2
+version: 1.0.3
 files:
-  - url: OrderCreate Setup 1.0.2.exe
-    sha512: PKbQvuO5kqk4V+xiab+M2V35GMHyfoM8NbVfJhu523rczHv7GcNi8rLIZ3NPIg0WVyIrURRs1+kHyi4ChBUGbw==
-    size: 81493538
-path: OrderCreate Setup 1.0.2.exe
-sha512: PKbQvuO5kqk4V+xiab+M2V35GMHyfoM8NbVfJhu523rczHv7GcNi8rLIZ3NPIg0WVyIrURRs1+kHyi4ChBUGbw==
-releaseDate: '2025-05-21T15:28:08.719Z'
+  - url: OrderCreate Setup 1.0.3.exe
+    sha512: uP89bTH5PybJWZ3ugAxW+4Ji2LFlrBVrKfD3IFSwzMbnLsaU7rIdyCzJEMKacCtZhYAlnexPMLdWATXi4pEzGQ==
+    size: 81493585
+path: OrderCreate Setup 1.0.3.exe
+sha512: uP89bTH5PybJWZ3ugAxW+4Ji2LFlrBVrKfD3IFSwzMbnLsaU7rIdyCzJEMKacCtZhYAlnexPMLdWATXi4pEzGQ==
+releaseDate: '2025-05-21T16:06:37.902Z'
